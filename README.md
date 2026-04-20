@@ -1,5 +1,26 @@
 # Physics Cheat Sheet
 
+## Physical Constants
+
+| Constant | Symbol | Value |
+|---|---|---|
+| Speed of light in vacuum | $c$ | $2.998 \times 10^8\ \text{m/s}$ |
+| Gravitational constant | $G$ | $6.67 \times 10^{-11}\ \text{N}\,\text{m}^2/\text{kg}^2$ |
+| Elementary charge | $e$ | $1.602 \times 10^{-19}\ \text{C}$ |
+| Coulomb constant | $k_e$ | $8.99 \times 10^9\ \text{N}\,\text{m}^2/\text{C}^2$ |
+| Permittivity of free space | $\epsilon_0$ | $8.85 \times 10^{-12}\ \text{C}^2/(\text{N}\,\text{m}^2)$ |
+| Permeability of free space | $\mu_0$ | $4\pi \times 10^{-7}\ \text{T}\,\text{m/A}$ |
+| Planck constant | $h$ | $6.626 \times 10^{-34}\ \text{J}\,\text{s}$ |
+| Reduced Planck constant | $\hbar$ | $1.055 \times 10^{-34}\ \text{J}\,\text{s}$ |
+| Boltzmann constant | $k_B$ | $1.381 \times 10^{-23}\ \text{J/K}$ |
+| Avogadro constant | $N_A$ | $6.022 \times 10^{23}\ \text{mol}^{-1}$ |
+| Universal gas constant | $R$ | $8.314\ \text{J/(mol}\,\text{K)}$ |
+| Electron mass | $m_e$ | $9.11 \times 10^{-31}\ \text{kg}$ |
+| Proton mass | $m_p$ | $1.673 \times 10^{-27}\ \text{kg}$ |
+| Neutron mass | $m_n$ | $1.675 \times 10^{-27}\ \text{kg}$ |
+| Atomic mass unit | $u$ | $1.660 \times 10^{-27}\ \text{kg}$ |
+| Standard free-fall acceleration | $g$ | $9.80\ \text{m/s}^2$ |
+
 # Mechanics
 
 ## Physics and Measurement
