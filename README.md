@@ -1,4 +1,4 @@
-# Physics Cheat Sheet
+# Serway Physics Cheat Sheet
 
 ## Physical Constants
 
@@ -20,6 +20,21 @@
 | Neutron mass | $m_n$ | $1.675 \times 10^{-27}\ \text{kg}$ |
 | Atomic mass unit | $u$ | $1.660 \times 10^{-27}\ \text{kg}$ |
 | Standard free-fall acceleration | $g$ | $9.80\ \text{m/s}^2$ |
+
+## Physical Data Often Used
+
+| Quantity | Value |
+|---|---|
+| Average Earth-Moon distance | $3.84 \times 10^8\ \text{m}$ |
+| Average Earth-Sun distance | $1.496 \times 10^{11}\ \text{m}$ |
+| Average radius of the Earth | $6.37 \times 10^6\ \text{m}$ |
+| Density of air $(20^\circ \text{C},\, 1\ \text{atm})$ | $1.20\ \text{kg/m}^3$ |
+| Density of water $(20^\circ \text{C},\, 1\ \text{atm})$ | $1.00 \times 10^3\ \text{kg/m}^3$ |
+| Free-fall acceleration | $9.80\ \text{m/s}^2$ |
+| Mass of the Earth | $5.98 \times 10^{24}\ \text{kg}$ |
+| Mass of the Moon | $7.36 \times 10^{22}\ \text{kg}$ |
+| Mass of the Sun | $1.99 \times 10^{30}\ \text{kg}$ |
+| Standard atmospheric pressure | $1.013 \times 10^5\ \text{Pa}$ |
 
 # Mechanics
 
