@@ -1,8 +1,4 @@
-# Serway Physics Cheat Sheet
-
-Source: `physics_serway.pdf`
-
-This sheet is organized by subfield, with each chapter condensed into core ideas and key equations. Important formulas are shown in display math so they render more cleanly on GitHub.
+# Physics Cheat Sheet
 
 # Mechanics
 
