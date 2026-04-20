@@ -611,6 +611,19 @@ $$
 \int E \cdot dA = \frac{q_{\text{enclosed}}}{\epsilon_0}
 $$
 
+Typical results:
+
+| Charge Distribution | Electric Field | Location |
+|---|---|---|
+| Uniform insulating sphere, radius $R$, total charge $Q$ | $E = k_e \dfrac{Q}{r^2}$ | $r > R$ |
+| Uniform insulating sphere, radius $R$, total charge $Q$ | $E = k_e \dfrac{Q}{R^3} r$ | $r < R$ |
+| Thin spherical shell, radius $R$, total charge $Q$ | $E = k_e \dfrac{Q}{r^2}$ | $r > R$ |
+| Thin spherical shell, radius $R$, total charge $Q$ | $E = 0$ | $r < R$ |
+| Infinite line charge, density $\lambda$ | $E = \dfrac{2k_e \lambda}{r}$ | Outside the line |
+| Infinite plane, surface density $\sigma$ | $E = \dfrac{\sigma}{2\epsilon_0}$ | Either side of plane |
+| Conductor, surface density $\sigma$ | $E = \dfrac{\sigma}{\epsilon_0}$ | Just outside |
+| Conductor, surface density $\sigma$ | $E = 0$ | Inside conductor |
+
 ## Electric Potential
 - Electric potential is potential energy per unit charge.
 - The electric field is the negative gradient of potential.
@@ -632,6 +645,17 @@ E_x = -\frac{dV}{dx},
 \qquad
 E = -\nabla V
 $$
+
+Typical results:
+
+| Charge Distribution | Electric Potential | Location |
+|---|---|---|
+| Uniformly charged ring of radius $a$ | $V = k_e \dfrac{Q}{\sqrt{x^2 + a^2}}$ | On axis, distance $x$ from center |
+| Uniformly charged disk of radius $a$ | $V = 2\pi k_e \sigma \left(\sqrt{x^2 + a^2} - x\right)$ | On axis, distance $x$ from center |
+| Uniformly charged insulating sphere, radius $R$, total charge $Q$ | $V = k_e \dfrac{Q}{r}$ | $r \ge R$ |
+| Uniformly charged insulating sphere, radius $R$, total charge $Q$ | $V = \dfrac{k_e Q}{2R}\left(3 - \dfrac{r^2}{R^2}\right)$ | $r < R$ |
+| Isolated conducting sphere, radius $R$, total charge $Q$ | $V = k_e \dfrac{Q}{r}$ | $r > R$ |
+| Isolated conducting sphere, radius $R$, total charge $Q$ | $V = k_e \dfrac{Q}{R}$ | $r \le R$ |
 
 ## Capacitance and Dielectrics
 - Capacitance measures charge stored per potential difference.
@@ -656,6 +680,15 @@ $$
 $$
 U = \frac{1}{2}C(\Delta V)^2 = \frac{Q^2}{2C} = \frac{1}{2}Q\Delta V
 $$
+
+Common geometries:
+
+| Geometry | Capacitance |
+|---|---|
+| Isolated sphere of radius $R$ | $C = 4\pi \epsilon_0 R$ |
+| Parallel-plate capacitor, plate area $A$, separation $d$ | $C = \epsilon_0 \dfrac{A}{d}$ |
+| Cylindrical capacitor, length $\ell$, inner radius $a$, outer radius $b$ | $C = \dfrac{\ell}{2k_e \ln(b/a)}$ |
+| Spherical capacitor, inner radius $a$, outer radius $b$ | $C = \dfrac{ab}{k_e (b-a)}$ |
 
 ## Current and Resistance
 - Current is the rate of charge flow.
